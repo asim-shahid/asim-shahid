@@ -42,16 +42,6 @@ const Asim = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asim-shahid&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asim-shahid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asimshahid.rauf@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
