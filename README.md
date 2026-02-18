@@ -11,8 +11,7 @@ const Asim = {
   name: "Muhammad Asim",
   location: "Pakistan 🇵🇰",
   education: "Computer Science - PUCIT",
-  role: "Software Engineer",
-  portfolio: "https://m-asim-rauf.vercel.app"
+  role: "Software Engineer"
 };
 ```
 
