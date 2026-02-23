@@ -1,23 +1,28 @@
 # Hi there, I'm Muhammad Asim! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;TypeScript+Developer;Building+Web+Applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;AI/ML+Engineer;TypeScript+Developer;Python+Expert!" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
-
-```typescript
-const Asim = {
-  name: "Muhammad Asim",
-  location: "Pakistan 🇵🇰",
-  education: "Computer Science - PUCIT",
-  role: "Software Engineer"
-};
-```
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAI](https://img.shields.io/badge/FastAI-FF4F4F?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194F3?style=for-the-badge&logo=mlflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,9 +48,6 @@ const Asim = {
 
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=asim-shahid&color=brightgreen&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/asim-shahid?label=Follow&style=social)](https://github.com/asim-shahid)
 
 **Thanks for visiting! Let's build something great together 🚀**
 
