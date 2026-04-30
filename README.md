@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Faheem Tabassum! 👋
 
-<!--
-**ftabassum113/ftabassum113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;AI/ML+Engineer;TypeScript+Developer;Python+Expert!" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py" />
+  </a>
+</p>
+
+### Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,express,graphql" />
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vue,angular" />
+  </a>
+</p>
+
+### AI/ML & AI Engineering
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase" />
+  </a>
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
