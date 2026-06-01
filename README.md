@@ -1,4 +1,4 @@
-# Hi there, I'm Faheem Tabassum! 👋
+# Hi there, I'm Muhammad Asim! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;AI/ML+Engineer;TypeScript+Developer;Python+Expert!" alt="Typing SVG" />
